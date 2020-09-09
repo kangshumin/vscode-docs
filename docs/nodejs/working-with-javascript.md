@@ -9,6 +9,8 @@ MetaDescription: Working with JavaScript in Visual Studio Code
 ---
 # Working with JavaScript
 
+Kang Shumin  2020-09-09 21:02 Wednesday at sx.hs.ah.cn
+
 This topic describes some of the advanced JavaScript features supported by Visual Studio Code. Using the TypeScript language service, VS Code can provide smart completions (IntelliSense) as well as type checking for JavaScript.
 
 ## IntelliSense
